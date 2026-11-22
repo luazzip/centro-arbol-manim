@@ -1,7 +1,7 @@
 # Centro de un árbol: animación con Manim
 
 ## Software requerido
-- Python 3.10–3.12 y `pip install -r requirements.txt` (Manim Community)
+- Python 3.13 y `pip install -r requirements.txt` (Manim Community)
 - g++ (C++17)
 - ffmpeg (solo si Manim lo pide)
 
