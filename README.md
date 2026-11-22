@@ -1,9 +1,5 @@
 # Centro de un árbol: animación con Manim
 
-Proyecto Final 2 – CS2023 Algoritmos y Estructuras de Datos (UTEC, 2026-2) – Grupo 7.
-Algoritmo: **centro de un árbol** por eliminación iterativa de hojas, O(n).
-La animación la genera una traza JSON producida por la implementación real en C++.
-
 ## Software requerido
 - Python 3.10–3.12 y `pip install -r requirements.txt` (Manim Community)
 - g++ (C++17)
