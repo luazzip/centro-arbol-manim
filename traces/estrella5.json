@@ -1,0 +1,15 @@
+{
+  "n": 5,
+  "aristas": [[0, 1], [0, 2], [0, 3], [0, 4]],
+  "grados_iniciales": [4, 1, 1, 1, 1],
+  "hojas_iniciales": [1, 2, 3, 4],
+  "capas": [
+    {"capa": 1, "eliminados": [1, 2, 3, 4], "nuevas_hojas": [], "grados_antes": [4, 1, 1, 1, 1], "grados_despues": [0, 1, 1, 1, 1], "restantes_antes": 5, "restantes_despues": 1}
+  ],
+  "centros": [0],
+  "excentricidad": [1, 2, 2, 2, 2],
+  "radio": 1,
+  "diametro": 2,
+  "camino_diametro": [2, 0, 1],
+  "verificacion_ok": true
+}

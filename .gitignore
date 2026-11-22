@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+media/
+bin/
+*.o
+*.exe
+.vscode/
+.DS_Store
+.env

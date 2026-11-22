@@ -1,0 +1,14 @@
+{
+  "n": 1,
+  "aristas": [],
+  "grados_iniciales": [0],
+  "hojas_iniciales": [],
+  "capas": [
+  ],
+  "centros": [0],
+  "excentricidad": [0],
+  "radio": 0,
+  "diametro": 0,
+  "camino_diametro": [0],
+  "verificacion_ok": true
+}
